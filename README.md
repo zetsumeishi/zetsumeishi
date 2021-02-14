@@ -27,7 +27,6 @@
 <img alt="Digital Ocean" src="https://img.shields.io/badge/digitalocean%20-%23EEEEEE.svg?&style=for-the-badge&logo=digitalocean&logoColor=%230080FF" />
 <img alt="Ubuntu" src="https://img.shields.io/badge/ubuntu%20-%23EEEEEE.svg?&style=for-the-badge&logo=ubuntu&logoColor=%23E95420" />
 <img alt="Travis CI" src="https://img.shields.io/badge/travis%20-%23EEEEEE.svg?&style=for-the-badge&logo=travis&logoColor=%23336791" />
-<img alt="Travis CI" src="https://img.shields.io/badge/buildbot%20-%23EEEEEE.svg?&style=for-the-badge&logo=buildbot&logoColor=%23336791" />
 <img alt="Sentry" src="https://img.shields.io/badge/sentry%20-%23EEEEEE.svg?&style=for-the-badge&logo=sentry&logoColor=%23362D59" />
 <img alt="New Relic" src="https://img.shields.io/badge/new%20relic%20-%23EEEEEE.svg?&style=for-the-badge&logo=new%20relic&logoColor=%23008C99" />
 </p>
