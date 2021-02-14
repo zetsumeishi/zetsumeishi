@@ -27,6 +27,7 @@
 <img alt="Digital Ocean" src="https://img.shields.io/badge/digitalocean%20-%23EEEEEE.svg?&style=for-the-badge&logo=digitalocean&logoColor=%230080FF" />
 <img alt="Ubuntu" src="https://img.shields.io/badge/ubuntu%20-%23EEEEEE.svg?&style=for-the-badge&logo=ubuntu&logoColor=%23E95420" />
 <img alt="Travis CI" src="https://img.shields.io/badge/travis%20-%23EEEEEE.svg?&style=for-the-badge&logo=travis&logoColor=%23336791" />
+<img alt="Travis CI" src="https://img.shields.io/badge/buildbot%20-%23EEEEEE.svg?&style=for-the-badge&logo=buildbot&logoColor=%23336791" />
 <img alt="Sentry" src="https://img.shields.io/badge/sentry%20-%23EEEEEE.svg?&style=for-the-badge&logo=sentry&logoColor=%23362D59" />
 <img alt="New Relic" src="https://img.shields.io/badge/new%20relic%20-%23EEEEEE.svg?&style=for-the-badge&logo=new%20relic&logoColor=%23008C99" />
 </p>
@@ -52,7 +53,10 @@
 #### NEXT
 
 <p>
-<img alt="AWS" src="https://img.shields.io/badge/aws%20-%23EEEEEE.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=%23232F3E"/>
 <img alt="C" src="https://img.shields.io/badge/C%20-%23EEEEEE.svg?&style=for-the-badge&logo=c&logoColor=%23A8B9CC" />
 <img alt="Golang" src="https://img.shields.io/badge/go%20-%23EEEEEE.svg?&style=for-the-badge&logo=go&logoColor=%2300ADD8" />
+</p>
+<p>
+<img alt="AWS" src="https://img.shields.io/badge/aws%20-%23EEEEEE.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=%23232F3E"/>
+<img alt="Ansible" src="https://img.shields.io/badge/ansible%20-%23EEEEEE.svg?&style=for-the-badge&logo=ansible&logoColor=%23EE0000"/>
 </p>
