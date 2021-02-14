@@ -1,7 +1,7 @@
-<div>
+<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zetsumeishi&show_icons=true&locale=en&layout=compact" alt="zetsumeishi" />
 <img align="right" height="165px" src="https://github-readme-stats.vercel.app/api?username=zetsumeishi&show_icons=true&locale=en&layout=compact" alt="zetsumeishi" />
-</div>
+</p>
 
 <hr>
 
@@ -10,6 +10,7 @@
 <img alt="Django" src="https://img.shields.io/badge/django%20-%23EEEEEE.svg?&style=for-the-badge&logo=django&logoColor=%23092E20" />
 <img alt="DRF" src="https://img.shields.io/badge/DRF%20-%23EEEEEE.svg?&style=for-the-badge&logo=django&logoColor=%23092E20" />
 </p>
+
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23EEEEEE.svg?&style=for-the-badge&logo=html5&logoColor=%23E34F26" />
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%23EEEEEE.svg?&style=for-the-badge&logo=css3&logoColor=%231572B6" />
