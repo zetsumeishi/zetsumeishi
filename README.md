@@ -36,7 +36,6 @@
 <img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23EEEEEE.svg?&style=for-the-badge&logo=gitlab&logoColor=%23FCA121" />
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23EEEEEE.svg?&style=for-the-badge&logo=github&logoColor=%23181717" />
 <img alt="Atom" src="https://img.shields.io/badge/atom%20-%23EEEEEE.svg?&style=for-the-badge&logo=atom&logoColor=%2366595C" />
-<img alt="PyCharm" src="https://img.shields.io/badge/pycharm%20-%23EEEEEE.svg?&style=for-the-badge&logo=pycharm&logoColor=black" />
 <img alt="Jira" src="https://img.shields.io/badge/jira%20-%23EEEEEE.svg?&style=for-the-badge&logo=jira&logoColor=0052CC" />
 </p>
 
