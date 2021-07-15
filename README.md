@@ -42,6 +42,7 @@
 #### LEARNING
 
 <p>
+<img alt="AWS" src="https://img.shields.io/badge/aws%20-%23EEEEEE.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=%23232F3E"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23EEEEEE.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%23EEEEEE.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" />
 <img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS%20-%23EEEEEE.svg?&style=for-the-badge&logo=nuxt.js&logoColor=%2300C58E" />
@@ -55,6 +56,5 @@
 <img alt="Golang" src="https://img.shields.io/badge/go%20-%23EEEEEE.svg?&style=for-the-badge&logo=go&logoColor=%2300ADD8" />
 </p>
 <p>
-<img alt="AWS" src="https://img.shields.io/badge/aws%20-%23EEEEEE.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=%23232F3E"/>
 <img alt="Ansible" src="https://img.shields.io/badge/ansible%20-%23EEEEEE.svg?&style=for-the-badge&logo=ansible&logoColor=%23EE0000"/>
 </p>
